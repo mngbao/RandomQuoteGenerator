@@ -11,7 +11,7 @@ body {
 #container {
   height: 40%;
   width: 75%;
-  background-color: #0e2431;
+  background-color: coral;
   border: 5px solid white;
   display: flex;
   justify-content: center;
